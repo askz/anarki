@@ -1,13 +1,13 @@
 ; things to customize
 (declare 'atstrings t)
 
-(= this-site*    "My Forum"
-   site-url*     "http://news.yourdomain.com/"
-   parent-url*   "http://www.yourdomain.com"
+(= this-site*    "Etna'n'Co"
+   site-url*     "http://etnanco.zkp.fr/"
+   parent-url*   "http://zkp.fr"
    favicon-url*  ""
-   site-desc*    "What this site is about."               ; for rss feed
+   site-desc*    "Share your experience."               ; for rss feed
    site-color*   (color 180 180 180)
-   border-color* (color 180 180 180)
+   border-color* (color 21 115 127)
    prefer-url*   t)
 
 ; these settings might improve performance when you need it
